@@ -6,4 +6,4 @@ git checkout back，this 1.1 版本
 
 this is a git brach dev
 
-dev modified for rebase
+dev text for rebase useing
