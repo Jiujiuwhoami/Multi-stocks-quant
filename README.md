@@ -24,16 +24,16 @@ jupyter notebook
 
 * 控制台会返回 url ，复制到浏览器访问得到
 
-![[index.png]]
+![](https://cdn.jsdelivr.net/gh/JiujiuPictures/pictures@main/blogindex.png)
 
 # 执行文件
 
-![[exec.png]]
+![](https://cdn.jsdelivr.net/gh/JiujiuPictures/pictures@main/blogexec.png)
 
 * 可以看到点击 1 处执行后，程序开始运行，2 位置有 * 代表正在运行
 * 由于程序采用单线程，所以运行很慢，事件大概半小时到一小时，运行结束，* 消失，交互页面将显示交易记录和收益评测曲线
 
-![[result.png]]
+![](https://cdn.jsdelivr.net/gh/JiujiuPictures/pictures@main/blogresult.png)
 
 # 声明
 
